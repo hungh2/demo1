@@ -15,6 +15,14 @@
       "password_confirmation": "khanhlinh12345",
       "province": "dn",
       "id": 2
+    },
+    {
+      "fullname": "Lê quốc cường",
+      "email": "nguyenvanminh8864@gmail.com",
+      "password": "nguyenvanmin",
+      "password_confirmation": "nguyenvanmin",
+      "province": "dn",
+      "id": 3
     }
   ]
 }
