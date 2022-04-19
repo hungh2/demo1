@@ -31,6 +31,14 @@
       "password_confirmation": "cuongdaica",
       "province": "qnam",
       "id": 4
+    },
+    {
+      "fullname": "Lê quốc cường",
+      "email": "nguaaaayenvanminh8864@gmail.com",
+      "password": "nguaaaayenvan",
+      "password_confirmation": "nguaaaayenvan",
+      "province": "qnam",
+      "id": 5
     }
   ]
 }
