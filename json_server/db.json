@@ -15,30 +15,6 @@
       "password_confirmation": "khanhlinh12345",
       "province": "dn",
       "id": 2
-    },
-    {
-      "fullname": "Lê quốc cường",
-      "email": "nguyenvanminh8864@gmail.com",
-      "password": "nguyenvanmin",
-      "password_confirmation": "nguyenvanmin",
-      "province": "dn",
-      "id": 3
-    },
-    {
-      "fullname": "Lê quốc cường",
-      "email": "test123@gmail.com",
-      "password": "cuongdaica",
-      "password_confirmation": "cuongdaica",
-      "province": "qnam",
-      "id": 4
-    },
-    {
-      "fullname": "Lê quốc cường",
-      "email": "nguaaaayenvanminh8864@gmail.com",
-      "password": "nguaaaayenvan",
-      "password_confirmation": "nguaaaayenvan",
-      "province": "qnam",
-      "id": 5
     }
   ]
 }
